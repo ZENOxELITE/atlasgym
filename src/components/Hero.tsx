@@ -31,7 +31,7 @@ export function Hero() {
           <div className="mb-5 flex items-center gap-3">
             <span className="h-px w-8 bg-brass" />
             <p className="font-sans text-xs uppercase tracking-wider text-brass">
-              DHA, Karachi — By Application
+              Atlas | DHA, Karachi — By Application
             </p>
           </div>
           <h1 className="font-display text-4xl font-semibold leading-[1.05] text-bone sm:text-5xl lg:text-7xl">

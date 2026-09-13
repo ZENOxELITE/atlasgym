@@ -62,7 +62,7 @@ export function Membership() {
             Membership
           </p>
           <h2 className="font-display text-3xl font-semibold text-bone sm:text-4xl lg:text-5xl">
-            Three tiers. No discounts.
+            We offer three tiers. 
           </h2>
         </Reveal>
 
